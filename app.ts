@@ -61,7 +61,7 @@ function showMessage(message: string): void {
   console.log(message);
 }
 
-showMessage("hello world!");
+showMessage("hello world 1 2 3 !");
 
 function calc(num1:number, num2:number):number {
   return num1 + num2;
